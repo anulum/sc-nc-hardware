@@ -2,11 +2,11 @@
   "capabilities": [],
   "claims": [],
   "evidence_maturity": "architecture_only",
-  "lifecycle": "local_scaffold",
+  "lifecycle": "public_repository",
   "qualified_owned_schema_ids": [],
   "repository_name": "SC-NC-HARDWARE",
   "source_metadata": {
     "path": "repository-domain.json",
-    "sha256": "7f7f599db7a60339c910602ff21728f5773612f1cf3c6f7badfde915a4d7fb6a"
+    "sha256": "7af5cffcfd8581084317b89e73b6a168675fe0a6e449a46346ecfb00c868316f"
   }
 }
