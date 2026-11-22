@@ -1,0 +1,27 @@
+{
+  "capabilities": [],
+  "claims": [],
+  "domain_runtime_dependencies": [],
+  "evidence_maturity": "architecture_only",
+  "lifecycle": "local_scaffold",
+  "owner_group": "SC-NEUROMORPHIC-COMPUTING-SYSTEMS",
+  "planned_owned_schema_ids": [
+    "sc_nc_hardware.runtime_binding.v1",
+    "sc_nc_hardware.trim_lut_table.v1",
+    "sc_nc_hardware.acquisition_frame.v1"
+  ],
+  "qualified_owned_schema_ids": [],
+  "repository_name": "SC-NC-HARDWARE",
+  "tooling_python": {
+    "actual_version": "3.13.16",
+    "design_baseline": "3.13",
+    "development_lock_sha256": "d99863e8da2aefab7ccd2bff4112b85e1f46460825352811e429720b3836a04b",
+    "supported_range": ">=3.13.16,<3.14"
+  },
+  "validation_profile": {
+    "id": "gotm.enterprise-repository-tier0.local-scaffold",
+    "profile_sha256": "f453a70eae008c41f8d26a1f495ec3636f64739bcedb9caac0bdf8774300905c",
+    "revision": "2026-10-04",
+    "standard_sha256": "8421674a61444474447fad2f4d2bfc54dc5a1ea12ae988785e57dbcab385938c"
+  }
+}
